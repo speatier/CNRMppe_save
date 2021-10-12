@@ -1,2 +1,12 @@
 # CNRMppe_save
-"Evaluating parametric sensitivity of climate feedbacks in the atmospheric component of CNRM-CM6-1" (Back-up of the codes) 
+"Evaluating parametric sensitivity of climate feedbacks in the atmospheric component of CNRM-CM6-1" (S.Peatier, B.M.Sanderson, R.Roehrig, L.Terray) 
+
+This repository contains the data files and code for the analyses presented in the paper. 
+
+The PPE and emulated data files (in .npy) are contains here : CNRMppe_save/PPE/ENSEMBLE2/files/npy/ and the optimal candidates data files are here : CNRMppe_save/PPE/ENSEMBLE4_selection/files/npy/
+
+The Jupyter Notebooks to reproduce the paper's analyses are here : CNRMppe_save/PPE/PPE_paper_1/MultiLinReg/ , with each Notebook considering an individual metric (E<sub>tas</sub>, E<sub>pr</sub>, E<sub>SW</sub>, E<sub>LW</sub>).
+
+The Notebook for estimating and analyzing the aggregated metric E<sub>tot</sub> is here :  CNRMppe_save/PPE/PPE_paper_1/MultiLinReg/Final_total.ipynb
+
+The same analyse has been conducted considering another type of linear emulator (the LASSO model), you can find the data files, codes and figures here : CNRMppe_save/PPE/PPE_paper_1/LASSO/
