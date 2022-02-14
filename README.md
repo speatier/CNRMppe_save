@@ -1,5 +1,5 @@
 # CNRMppe_save
-"Evaluating parametric sensitivity of climate feedbacks in the atmospheric component of CNRM-CM6-1" (S.Peatier, B.M.Sanderson, R.Roehrig, L.Terray) 
+"Investigating parametric dependence of climate feedbacks in the atmospheric component of CNRM-CM6-1." (S.Peatier, B.M.Sanderson, R.Roehrig, L.Terray) 
 
 This repository contains the data files and code for the analyses presented in the paper. 
 
