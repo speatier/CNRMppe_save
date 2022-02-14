@@ -3,9 +3,11 @@
 
 This repository contains the data files and code for the analyses presented in the paper. 
 
-The PPE and emulated data files (in .npy) are contains here : CNRMppe_save/PPE/ENSEMBLE2/files/npy/ and the optimal candidates data files are here : CNRMppe_save/PPE/ENSEMBLE4_selection/files/npy/ or here : CNRMppe_save/PPE/ENSEMBLE2/files/npy/CNRMppe/
+The Jupyter Notebooks to reproduce the paper's analyses are [here] (https://github.com/speatier/CNRMppe_save/tree/main/PPE/PPE_paper_1/MultiLinReg), with each Notebook considering an individual metric (E<sub>tas</sub>, E<sub>pr</sub>, E<sub>SW</sub>, E<sub>LW</sub>).
 
-The Jupyter Notebooks to reproduce the paper's analyses are here : CNRMppe_save/PPE/PPE_paper_1/MultiLinReg/ , with each Notebook considering an individual metric (E<sub>tas</sub>, E<sub>pr</sub>, E<sub>SW</sub>, E<sub>LW</sub>).
+The PPE and emulated data files (in .npy) are contains [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/ENSEMBLE2/files/npy) and the optimal candidates data files are here : CNRMppe_save/PPE/ENSEMBLE4_selection/files/npy/ or here : CNRMppe_save/PPE/ENSEMBLE2/files/npy/CNRMppe/
+
+
 
 The Notebook for estimating and analyzing the aggregated metric E<sub>tot</sub> is here :  CNRMppe_save/PPE/PPE_paper_1/MultiLinReg/Final_total.ipynb
 
