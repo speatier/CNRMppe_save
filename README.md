@@ -7,4 +7,4 @@ The Jupyter Notebooks to reproduce the paper's analyses are [here](https://githu
 
 The PPE and emulated data files (in .npy) can be found [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/ENSEMBLE2/files/npy) and the optimal candidates data files are [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/ENSEMBLE4_selection/files/npy/) and/or [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/ENSEMBLE2/files/npy/CNRMppe).
 
-The same analyse has been conducted considering another type of linear emulator (the LASSO model), you can find the data files, codes and figures [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/PPE_paper_1/LASSO/).
+The same analysis has been conducted considering another type of linear emulator (the LASSO model), you can find the data files, codes and figures [here](https://github.com/speatier/CNRMppe_save/tree/main/PPE/PPE_paper_1/LASSO/).
